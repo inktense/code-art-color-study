@@ -1,0 +1,18 @@
+{
+  "name": "canvas-sketch-p5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.5",
+    "canvas-sketch-util": "^1.10.0",
+    "coolors-io": "^1.1.1",
+    "lodash": "^4.17.21"
+  }
+}

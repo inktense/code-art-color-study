@@ -1,0 +1,19 @@
+export const coolorsLinksArray = [
+  "https://coolors.co/f4f1de-e07a5f-3d405b-81b29a-f2cc8f",
+  "https://coolors.co/eff7cf-bad9b5-aba361-732c2c-420c14",
+  "https://coolors.co/c1cad6-d4adcf-856084-84e296-dde1e4",
+  "https://coolors.co/dbd56e-88ab75-2d93ad-7d7c84-de8f6e",
+  "https://coolors.co/0d3b66-faf0ca-f4d35e-ee964b-f95738",
+  "https://coolors.co/ffffff-84dcc6-a5ffd6-ffa69e-ff686b",
+  "https://coolors.co/404e5c-4f6272-b7c3f3-dd7596-cf1259",
+  "https://coolors.co/edadc7-d199b6-c493b0-a68ba5-5c5d67",
+  "https://coolors.co/040403-5b7553-8eb897-c3e8bd-9ddbad",
+  "https://coolors.co/fe4a49-fed766-009fb7-e6e6ea-f4f4f8",
+  "https://coolors.co/d4afb9-d1cfe2-9cadce-7ec4cf-52b2cf",
+  "https://coolors.co/e0f2e9-ceb5a7-a17c6b-5b7b7a-3c887e",
+  "https://coolors.co/a8d5e2-f9a620-ffd449-548c2f-104911",
+  "https://coolors.co/12130f-5b9279-8fcb9b-eae6e5-8f8073",
+  "https://coolors.co/db7f67-dbbea1-a37b73-3f292b-d34f73",
+  "https://coolors.co/397367-63ccca-5da399-42858c-35393c",
+  "https://coolors.co/588b8b-ffffff-ffd5c2-f28f3b-c8553d"
+];
